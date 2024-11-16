@@ -1,2 +1,1 @@
-# umc_study
-umc_study
+# SpringBoot-A 스터디
